@@ -20,10 +20,22 @@ I enjoy building efficient applications and solving real-world problems using pr
 
 ## 🛠️ Skills
 
-### Programming Languages
-- Java
-- Python
-- C
+<h2 align="center">💻 Programming Languages</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br><sub><b>C</b></sub>
+</td>
+</tr>
+</table>
+
 
 ### Web Technologies
 - HTML
