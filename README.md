@@ -78,7 +78,7 @@ I enjoy building efficient applications and solving real-world problems using pr
     </td>
     <td>
       <b>Zilla Parishad High School, Kalakada</b><br>
-      2018 – 2019<br>
+      2021– 2022<br>
       🎯 Percentage: <b>86.16%</b>
     </td>
   </tr>
