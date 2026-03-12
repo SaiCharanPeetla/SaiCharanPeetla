@@ -6,8 +6,9 @@
  ---
 <!-- 🔥 Animated Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=90&lines=💻Computer Science & Business Systems⚡+Java+%26+Spring+Boot+Backend+Engineer;📊+Data+Structures+%26+Algorithms+Programmer;🎯+Problem+Solving+Enthusiast;🚀+Software+Development+Engineer;🧠+Core+Computer+Science+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=90&lines=💻Computer+Science+%26+Business+Systems;⚡Java+%26+Spring+Boot+Backend+Engineer;📊Data+Structures+%26+Algorithms+Programmer;🎯Problem+Solving+Enthusiast;🚀Software+Development+Engineer;🧠Core+Computer+Science+Learner" />
 </div>
+
 
 ---
 
