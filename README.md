@@ -21,9 +21,8 @@ I enjoy building efficient applications and solving real-world problems using pr
 <h2 align="center">🔥 Contribution Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiCharanPeetla&theme=vision-friendly-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiCharanPeetla&theme=blueberry" />
 </p>
-
 ---
 
 
