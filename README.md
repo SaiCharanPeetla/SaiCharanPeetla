@@ -37,10 +37,22 @@ I enjoy building efficient applications and solving real-world problems using pr
 </table>
 
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
+<h2 align="center">🎨 Web Technologies</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br><sub><b>JavaScript</b></sub>
+</td>
+</tr>
+</table>
+
 
 ### Database
 - MySQL
