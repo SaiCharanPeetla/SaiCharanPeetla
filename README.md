@@ -25,8 +25,10 @@ I enjoy building efficient applications and solving real-world problems using pr
 </p>
 
 ---
-<h2 align="center"> 🔥 Contribution Graph </h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiCharanPeetla&theme=chartreuse-dark" /> </p>
-
+<h2 align="center"> 🔥 Contribution Graph </h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiCharanPeetla&theme=tokyo-night" />
+</p>
 ---
 <h2 align="center">🛠️ Skills</h2>
 
