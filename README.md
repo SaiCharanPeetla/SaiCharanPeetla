@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Peetla Sai Charan
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Peetla%20Sai Charan%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+</div>
 
 🎓 B.Tech Student (Computer Science and Business Systems)  
 💻 Aspiring Backend Developer  
