@@ -54,12 +54,34 @@ I enjoy building efficient applications and solving real-world problems using pr
 </table>
 
 
-### Database
-- MySQL
+---
+<h2 align="center">🗄️ Databases</h2>
 
-### Tools
-- Git
-- GitHub
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+---
+<h2 align="center">🔁 Version Control</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub>
+</td>
+</tr>
+</table>
+
+---
 
 ### Soft Skills
 - Communication
