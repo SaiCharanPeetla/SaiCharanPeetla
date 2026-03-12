@@ -67,7 +67,6 @@ I enjoy building efficient applications and solving real-world problems using pr
 </table>
 
 ---
----
 <h2 align="center">🔁 Version Control</h2>
 
 <table align="center">
@@ -82,7 +81,6 @@ I enjoy building efficient applications and solving real-world problems using pr
 </table>
 
 ---
-
 ### Soft Skills
 - Communication
 - Leadership
