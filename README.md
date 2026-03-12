@@ -93,6 +93,25 @@ I enjoy building efficient applications and solving real-world problems using pr
 </table>
 
 ---
+<h2 align="center">🧑‍💻 IDE & Code Editors</h2>
+
+---
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><sub><b>Visual Studio Code</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=idea" width="50"/><br><sub><b>IntelliJ</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=eclipse" width="50"/><br><sub><b>Eclipse</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
 ### Soft Skills
 - Communication
 - Leadership
