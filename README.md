@@ -18,7 +18,7 @@ I enjoy building efficient applications and solving real-world problems using pr
 
 ---
 
-## 🛠️ Skills
+<h2 align="center">🛠️ Skills</h2>
 
 <h2 align="center">💻 Programming Languages</h2>
 
