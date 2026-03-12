@@ -47,7 +47,7 @@ I enjoy building efficient applications and solving real-world problems using pr
 
 ## 🎓 Education
 
-**B.Tech – Computer Science and Business Systems**  
+**B.Tech – Computer Science and Business Systems(pursuing)**  
 Sri Venkateshwara College of Engineering and Technology  
 2024 – 2028
 
