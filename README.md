@@ -2,7 +2,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Peetla%20Sai%20Charan%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
- 
+
+ ---
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=30&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=90&lines=💻Computer Science & Business Systems⚡+Java+%26+Spring+Boot+Backend+Engineer;📊+Data+Structures+%26+Algorithms+Programmer;🎯+Problem+Solving+Enthusiast;🚀+Software+Development+Engineer;🧠+Core+Computer+Science+Learner" />
+</div>
 
 ---
 
