@@ -45,17 +45,46 @@ I enjoy building efficient applications and solving real-world problems using pr
 
 ---
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
-**B.Tech – Computer Science and Business Systems(pursuing)**  
-Sri Venkateshwara College of Engineering and Technology  
-2024 – 2028
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/graduation-cap.png" width="60"/><br>
+      <sub><b>B. Tech. – Computer Science & Business System (Pursuing)</b></sub>
+    </td>
+    <td>
+      <b>Sri Venkateshwara College of Engineering & Technology, Chittor</b><br>
+      2024 – 2028<br>
+    </td>
+  </tr>
 
-**Intermediate – 91.3%**  
-NRI Junior College, Tirupati
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/books.png" width="60"/><br>
+      <sub><b>Intermediate (HSC)</b></sub>
+    </td>
+    <td>
+      <b>NRI Junior College, Tirupati</b><br>
+      2022 – 2024<br>
+      📊 Percentage: <b>91.3%</b>
+    </td>
+  </tr>
 
-**10th Grade – 86.16%**  
-Zilla Parishad High School, Kalakada
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/school-building.png" width="60"/><br>
+      <sub><b>Secondary (SSC)</b></sub>
+    </td>
+    <td>
+      <b>Zilla Parishad High School, Kalakada</b><br>
+      2018 – 2019<br>
+      🎯 Percentage: <b>86.16%</b>
+    </td>
+  </tr>
+</table>
+ 
+
 
 ---
 
