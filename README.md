@@ -2,10 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Peetla%20Sai%20Charan%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
-
-🎓 B.Tech Student (Computer Science and Business Systems)  
-💻 Aspiring Backend Developer  
-📍 Chittoor, Andhra Pradesh, India  
+ 
 
 ---
 
@@ -13,6 +10,11 @@
 
 I am an enthusiastic Computer Science student with a strong interest in **Backend Development** and **Software Engineering**.  
 I enjoy building efficient applications and solving real-world problems using programming and database technologies.
+
+---
+🎓 B.Tech Student (Computer Science and Business Systems)  
+💻 Aspiring Backend Developer  
+📍 Chittoor, Andhra Pradesh, India 
 
 ---
 
