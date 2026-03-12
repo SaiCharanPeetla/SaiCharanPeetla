@@ -36,7 +36,7 @@ I enjoy building efficient applications and solving real-world problems using pr
 </tr>
 </table>
 
-
+---
 <h2 align="center">🎨 Web Technologies</h2>
 
 <table align="center">
