@@ -117,7 +117,11 @@ I enjoy building efficient applications and solving real-world problems using pr
 </table>
 
 ---
+## 📊 Languages Used Across My Projects
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharanPeetla&layout=compact)
+
+---
 ### Soft Skills
 - Communication
 - Leadership
