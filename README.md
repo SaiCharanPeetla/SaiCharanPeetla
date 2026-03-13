@@ -117,6 +117,7 @@ I enjoy building efficient applications and solving real-world problems using pr
 </table>
 
 ---
+<h2 align="center">🛠️ Github Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiCharanPeetla&show_icons=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharanPeetla&layout=compact" width="48%"/>
