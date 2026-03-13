@@ -117,9 +117,9 @@ I enjoy building efficient applications and solving real-world problems using pr
 </table>
 
 ---
-## 📊 Languages Used Across My Projects
+## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharanPeetla&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut)
 
 ---
 ### Soft Skills
