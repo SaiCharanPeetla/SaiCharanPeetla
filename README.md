@@ -26,13 +26,15 @@ I enjoy building efficient applications and solving real-world problems using pr
 <h2 align="center">🔥 Contribution Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiCharanPeetla&theme=blueberry" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiCharanPeetla&theme=green_nur" />
 </p>
 
 ---
+
 <h2 align="center"> 🔥 Contribution Graph </h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiCharanPeetla&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiCharanPeetla&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" />
 </p>
 
 ---
