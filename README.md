@@ -116,21 +116,10 @@ I enjoy building efficient applications and solving real-world problems using pr
 </tr>
 </table>
 
----
-## 📊 Most Used Languages
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharanPeetla&layout=donut)
-
----
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiCharanPeetla&show_icons=true)
-
-## 🧠 Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharanPeetla&layout=compact)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiCharanPeetla&show_icons=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharanPeetla&layout=compact" width="48%"/>
+</p>
 ### Soft Skills
 - Communication
 - Leadership
