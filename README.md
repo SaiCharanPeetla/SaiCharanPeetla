@@ -122,6 +122,15 @@ I enjoy building efficient applications and solving real-world problems using pr
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharanPeetla&layout=donut)
 
 ---
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiCharanPeetla&show_icons=true)
+
+## 🧠 Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharanPeetla&layout=compact)
+
+---
 ### Soft Skills
 - Communication
 - Leadership
