@@ -255,8 +255,7 @@ https://github.com/SaiCharanPeetla
 ---
 
 ⭐ *Thank you for visiting my GitHub profile!*
-<br><br>
-
+<br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1FA2FF,100:1A2980&height=120&section=footer&animation=fadeIn" />
 </div>
