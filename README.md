@@ -243,7 +243,7 @@ Technologies Used:
 
 ## 🌐 Connect With Me
 
-📧 Email: peetlasaiharan@gmail.com  
+📧 Email: peetlasaicharan@gmail.com  
 📱 Phone: +91 8328229532  
 
 🔗 LinkedIn  
