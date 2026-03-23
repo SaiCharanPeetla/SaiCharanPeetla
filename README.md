@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/SaiCharanPeetla&style=for-the-badge&color=28A745" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=SaiCharanPeetla&show_icons=true&theme=radical" />
+
 ---
 
 ## 🚀 About Me
