@@ -20,6 +20,9 @@
   <img src="https://img.shields.io/github/followers/SaiCharanPeetla?label=Followers&style=for-the-badge&color=1E90FF" />
   <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=%24.following&url=https://api.github.com/users/SaiCharanPeetla&style=for-the-badge&color=28A745" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Grade-B+-blueviolet?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
