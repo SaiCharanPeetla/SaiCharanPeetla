@@ -2,10 +2,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Peetla%20Sai%20Charan%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=PeetlaMahesh123&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=PeetlaMahesh123&theme=onedark" />
 
 </div>
 
