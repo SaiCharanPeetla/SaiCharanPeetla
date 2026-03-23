@@ -2,6 +2,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=160&section=header&text=💻%20Hi%20👋,%20I'm%20Peetla%20Sai%20Charan%20⚡&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 <!-- 🔥 Animated Typing -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=90&lines=💻Computer+Science+%26+Business+Systems;⚡Java+%26+Spring+Boot+Backend+Engineer;📊Data+Structures+%26+Algorithms+Programmer;🎯Problem+Solving+Enthusiast;🚀Software+Development+Engineer;🧠Core+Computer+Science+Learner" />
