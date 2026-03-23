@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PeetlaMahesh123&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=PeetlaMahesh123&theme=onedark&row=1&column=6" />
 
 </div>
 
