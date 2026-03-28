@@ -11,7 +11,7 @@
 
 ---
 <!-- 👁 Profile Views -->
-<h2 align="center"> 💡 My Profile Views </h2>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaiCharanPeetla&label=Profile%20views&color=8A2BE2&style=flat" />
