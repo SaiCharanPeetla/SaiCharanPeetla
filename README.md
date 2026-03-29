@@ -26,7 +26,10 @@
 </p>
 
 ---
+## 🚀 About Me
 
+I am an enthusiastic Computer Science student with a strong interest in **Backend Development** and **Software Engineering**.  
+I enjoy building efficient applications and solving real-world problems using programming and database technologies.
 
 
 ---
