@@ -33,7 +33,9 @@ I enjoy building efficient applications and solving real-world problems using pr
 
 
 ---
-
+🎓 B.Tech Student (Computer Science and Business Systems)  
+💻 Aspiring Backend Developer  
+📍 Chittoor, Andhra Pradesh, India 
 
 ---
 
