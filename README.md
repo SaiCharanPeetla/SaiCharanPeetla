@@ -10,7 +10,7 @@
 
 
 ---
-<!-- 👁 Profile Views -->
+
 <h2 align="center"> 💡 My Profile Views </h2>
 
 <p align="center">
